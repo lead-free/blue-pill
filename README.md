@@ -9,7 +9,7 @@ Get  ARM embedded toolchain from [here](https://developer.arm.com/tools-and-soft
 Clone this repository
 ```shell
 git clone --recursive https://github.com/stansotn/blue-pill.git
-cd windrider
+cd blue-pill
 ```
 
 Specify arm-none-eabi toolchain path [here](https://github.com/stansotn/windrider/blob/b504cc1aba64b46fe6b5661b652663123e7398de/yaccs-user-config.cmake#L4).
