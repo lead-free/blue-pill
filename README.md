@@ -1,7 +1,7 @@
 # blue-pill
 A universal [blue pill](https://hackaday.com/2017/03/30/the-2-32-bit-arduino-with-debugging/) (aka [stm32f103c8t6](https://www.st.com/en/microcontrollers-microprocessors/stm32f103c8.html)) initialization template with USB CDC driver.
 
-Creation of this template is described in my article on [Embedded Environment](stansotn.com/embedded_environment).
+Creation of this template is described in my article on [Embedded Environment](https://stansotn.com/embedded_environment/).
 
 ## Build
 Get  ARM embedded toolchain from [here](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) or `sudo apt install gcc-arm-none-eabi` on Ubuntu.
