@@ -6,6 +6,8 @@ Creation of this template is described in my article on [Embedded Environment](s
 ## Build
 Get  ARM embedded toolchain from [here](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) or `sudo apt install gcc-arm-none-eabi` on Ubuntu.
 
+Get cmake `brew install cmake` on MacOS or `sudo apt install cmake` on Ubuntu.
+
 Clone this repository
 ```shell
 git clone --recursive https://github.com/stansotn/blue-pill.git
